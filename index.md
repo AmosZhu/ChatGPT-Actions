@@ -1,9 +1,7 @@
-Privacy Policy for [Your GPT Action Name]
-
-Effective Date: [Insert Date]
+Privacy Policy
 
 1. Introduction
-[Your GPT Action Name] ("the Action") is designed to analyze public repositories available on GitHub. This Action operates in strict compliance with GitHub’s API usage policies and does not create, store, or retain any user data. The Action solely interacts with publicly accessible data provided by the GitHub API.
+This tool is designed to analyze public repositories available on GitHub. This Action operates in strict compliance with GitHub’s API usage policies and does not create, store, or retain any user data. The Action solely interacts with publicly accessible data provided by the GitHub API.
 
 2. Data Collection and Use
 Public Data Only: The Action exclusively accesses public repositories on GitHub. No private or personal data is accessed or processed.
@@ -18,6 +16,3 @@ No Personal Input Required: Users of this Action do not need to provide any pers
 GitHub API: The Action uses the GitHub API to access public repository data. Since the data is publicly available, using the GitHub API in this way does not involve sharing any personal data with third parties.
 7. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any updates will be posted on this page, and the date of the last revision will be indicated at the top of the policy.
-
-8. Contact Information
-If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
